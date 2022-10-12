@@ -1,4 +1,4 @@
-## Olá! eu sou a Emilly Melo, Desenvolvedora Front-end 💻
+## Oii eu sou a Emilly Melo, Desenvolvedora Front-end 💻
 
 - 🔭 Hoje busco trabalhar com Front-end
 - 🌱 Estudando Back-end 
