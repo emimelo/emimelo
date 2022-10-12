@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/emimelo">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=emimelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=6488CC&title_color=CC643A&text_color=E9C6B4&"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emimelo&layout=compact&langs_count=7&theme=tokyonight&title_color=E9C6B4&text_color=E9C6B4&"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=emimelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=6488CC&title_color=CC643A&text_color=E9C6B4&"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emimelo&layout=compact&langs_count=7&theme=tokyonight&title_color=E9C6B4&text_color=E9C6B4&"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -21,6 +21,10 @@
 
 ##
 
+<div>
   <a href="https://www.linkedin.com/in/emilly-melo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emimelo3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/heremilly/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
