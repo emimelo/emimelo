@@ -15,8 +15,7 @@
   <img align="center" alt="Emi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Emi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Emi-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-  <img align="right" alt="Emi-pic" height="140" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202210/338224_eWCKf6va.png">
+  <img align="center" alt="Emi-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 ##
