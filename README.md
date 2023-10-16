@@ -1,7 +1,6 @@
 ## Oii eu sou a Emilly Melo, Desenvolvedora Front-end 💻
 
-- 🔭 Hoje busco trabalhar com Front-end
-- 🌱 Estudando Back-end 
+- 💻 Desenvolvedora Web Front-end
 - 😄 Pronouns: ela/dela
 
 <div align="center">
