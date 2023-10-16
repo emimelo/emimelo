@@ -1,12 +1,12 @@
-## Oii eu sou a Emilly Melo, Desenvolvedora Front-end 💻
+## Eu sou a Emilly Melo, Desenvolvedora Web Front-end
 
 - 💻 Desenvolvedora Web Front-end
 - 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/emimelo">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=emimelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=6488CC&title_color=CC643A&text_color=E9C6B4&"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emimelo&layout=compact&langs_count=7&theme=tokyonight&title_color=E9C6B4&text_color=E9C6B4&"/>
+  <img height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=emimelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=6488CC&title_color=CC643A&text_color=E9C6B4&"/>
+  <img height="200px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emimelo&layout=compact&langs_count=7&theme=tokyonight&title_color=E9C6B4&text_color=E9C6B4&"/>
 </div>
 
 <div style="display: inline_block"><br>
